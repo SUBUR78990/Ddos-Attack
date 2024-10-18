@@ -1,4 +1,4 @@
-# DDOS_OVH_L7
+# Ddos Attack 
 
 termux kali linux DDOS L7
 🚀 Привет, сообщество GitHub! 🚀
@@ -69,4 +69,4 @@ Available methods include 'GET,' 'POST,' 'HEAD,' 'HTTP-SYN,' 'HTTP-SYN-TPC,' 'OV
 
 I can't wait for you to try out this program and share your feedback. I invite you to contribute and be a part of this exciting project! 💪
 
-thanks to @FBNonaMe
+thanks to FBNonaMe
